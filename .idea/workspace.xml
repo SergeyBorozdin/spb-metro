@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849a9589-b0a8-46e6-9abf-ee381e9876bf" name="Changes" comment="homework 14.8 &#10;six commit" />
+    <list default="true" id="2b43c089-8ac4-4513-b2d2-affad0837bfc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="RouteCalculatorTest.testGetRouteWithTwoConnections" />
-    </enabled-run-configurations>
-  </component>
-  <component name="ProjectId" id="28W0ovLDQMbgLOfLFK8L7i9So7o" />
+  <component name="ProjectId" id="28W0yLq8cbCqGMKGo4z8yFsNNGx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,10 +22,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SPBMetro" />
   </component>
-  <component name="RunManager" selected="JUnit.All in spb-metro">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="spb-metro" />
@@ -45,141 +32,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in spb-metro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spb-metro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RouteCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spb-metro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RouteCalculatorTest.testCalculateDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spb-metro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDuration" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RouteCalculatorTest.testGetRouteWithTwoConnections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spb-metro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
-      <option name="METHOD_NAME" value="testGetRouteWithTwoConnections" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteWithTwoConnections" />
-        <item itemvalue="JUnit.All in spb-metro" />
-        <item itemvalue="JUnit.RouteCalculatorTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDuration" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="849a9589-b0a8-46e6-9abf-ee381e9876bf" name="Changes" comment="" />
-      <created>1651317215818</created>
+      <changelist id="2b43c089-8ac4-4513-b2d2-affad0837bfc" name="Changes" comment="" />
+      <created>1651317288184</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651317215818</updated>
+      <updated>1651317288184</updated>
     </task>
-    <task id="LOCAL-00001" summary="homework 14.8 &#10;first commit">
-      <created>1651320061742</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1651320061742</updated>
-    </task>
-    <task id="LOCAL-00002" summary="homework 14.8 &#10;second commit">
-      <created>1651590213112</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1651590213112</updated>
-    </task>
-    <task id="LOCAL-00003" summary="homework 14.8 &#10;three commit">
-      <created>1651690497789</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1651690497789</updated>
-    </task>
-    <task id="LOCAL-00004" summary="homework 14.8 &#10;four commit">
-      <created>1651928253495</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651928253495</updated>
-    </task>
-    <task id="LOCAL-00005" summary="homework 14.8 &#10;five commit">
-      <created>1652020735331</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1652020735333</updated>
-    </task>
-    <task id="LOCAL-00006" summary="homework 14.8 &#10;six commit">
-      <created>1652023190124</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1652023190125</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework 14.8 &#10;first commit" />
-    <MESSAGE value="homework 14.8 &#10;second commit" />
-    <MESSAGE value="homework 14.8 &#10;three commit" />
-    <MESSAGE value="homework 14.8 &#10;four commit" />
-    <MESSAGE value="homework 14.8 &#10;five commit" />
-    <MESSAGE value="homework 14.8 &#10;six commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 14.8 &#10;six commit" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SPBMetro$All_in_spb_metro.ic" NAME="All in spb-metro Coverage Results" MODIFIED="1652023453216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest.ic" NAME="RouteCalculatorTest Coverage Results" MODIFIED="1651319606947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
